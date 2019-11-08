@@ -10,7 +10,7 @@ import { createStackNavigator } from 'react-navigation-stack';
 import {  createAppContainer, createSwitchNavigator } from 'react-navigation';
 
 const MainNavigator = createSwitchNavigator({
-  Home: { screen: LoginScreen },
+  Login: { screen: LoginScreen },
   Profile: { screen: ProfileScreen },
 });
 

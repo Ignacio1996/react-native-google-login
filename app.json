@@ -24,7 +24,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.webiosandroid.all"
+      
+    },
+
+    "android":{
+      "package": "com.webiosandroid.all"
     }
   }
 }

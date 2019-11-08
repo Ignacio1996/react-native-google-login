@@ -1,0 +1,1 @@
+# I'm attempting to setup Google Authentication with Firebase using Expo to deploy an app on IOS, ANDROID and WEB under 1 codebase.

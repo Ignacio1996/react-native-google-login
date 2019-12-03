@@ -4,9 +4,9 @@ import { Text, View, StyleSheet, Button } from "react-native";
 import * as Google from "expo-google-app-auth";
 
 const IOS_CLIENT_ID =
-  "your-ios-client-id-here";
+  "537967040754-8bs0qrkdmuep9gi2226p3eeco1b44t5k.apps.googleusercontent.com";
 const ANDROID_CLIENT_ID =
-  "your-android-client-id-here";
+  "978708541571-qfe9eks6kkf2a9nf94tlrhe7qsv7no1n.apps.googleusercontent.com";
 
 export default class LoginScreen extends Component {
   signInWithGoogle = async () => {

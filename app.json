@@ -25,7 +25,12 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.webiosandroid.all"
+      "bundleIdentifier": "com.webiosandroid.all",
+      "config":{
+        "googleSignIn": {
+          "reservedClientId":"com.googleusercontent.apps.978708541571-md66h7bbmmom8vmusp1qo7adojckfhab"
+        }
+      }
       
     },
 
